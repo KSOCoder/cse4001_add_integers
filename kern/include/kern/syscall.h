@@ -83,6 +83,8 @@
 #define SYS_sigprocmask  30
 #define SYS_sigsuspend   31
 #define SYS_sigreturn    32
+#define SYS_add_three_integers 43
+#define SYS_print_int    44
 //#define SYS_sigaltstack 33
 //                              (resource tracking and usage)
 //#define SYS_wait4      34
